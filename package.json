@@ -1,0 +1,26 @@
+{
+  "name": "two-roads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dEzequiel/two-roads.git"
+  },
+  "author": "Ezequiel De La Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dEzequiel/two-roads/issues"
+  },
+  "homepage": "https://github.com/dEzequiel/two-roads#readme",
+  "dependencies": {
+    "express": "4.18.2",
+    "joi": "^17.7.0"
+  },
+  "devDependencies": {
+    "jest": ">=29.3"
+  }
+}
